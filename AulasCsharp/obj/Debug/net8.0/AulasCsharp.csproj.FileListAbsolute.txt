@@ -1,0 +1,14 @@
+C:\Repositórios\AulasCsharp\bin\Debug\net8.0\AulasCsharp.exe
+C:\Repositórios\AulasCsharp\bin\Debug\net8.0\AulasCsharp.deps.json
+C:\Repositórios\AulasCsharp\bin\Debug\net8.0\AulasCsharp.runtimeconfig.json
+C:\Repositórios\AulasCsharp\bin\Debug\net8.0\AulasCsharp.dll
+C:\Repositórios\AulasCsharp\bin\Debug\net8.0\AulasCsharp.pdb
+C:\Repositórios\AulasCsharp\obj\Debug\net8.0\AulasCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositórios\AulasCsharp\obj\Debug\net8.0\AulasCsharp.AssemblyInfoInputs.cache
+C:\Repositórios\AulasCsharp\obj\Debug\net8.0\AulasCsharp.AssemblyInfo.cs
+C:\Repositórios\AulasCsharp\obj\Debug\net8.0\AulasCsharp.csproj.CoreCompileInputs.cache
+C:\Repositórios\AulasCsharp\obj\Debug\net8.0\AulasCsharp.dll
+C:\Repositórios\AulasCsharp\obj\Debug\net8.0\refint\AulasCsharp.dll
+C:\Repositórios\AulasCsharp\obj\Debug\net8.0\AulasCsharp.pdb
+C:\Repositórios\AulasCsharp\obj\Debug\net8.0\AulasCsharp.genruntimeconfig.cache
+C:\Repositórios\AulasCsharp\obj\Debug\net8.0\ref\AulasCsharp.dll
