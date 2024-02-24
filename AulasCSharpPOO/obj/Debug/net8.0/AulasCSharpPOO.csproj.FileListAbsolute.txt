@@ -1,0 +1,14 @@
+C:\Repositórios\AulasCSharpPOO\bin\Debug\net8.0\AulasCSharpPOO.exe
+C:\Repositórios\AulasCSharpPOO\bin\Debug\net8.0\AulasCSharpPOO.deps.json
+C:\Repositórios\AulasCSharpPOO\bin\Debug\net8.0\AulasCSharpPOO.runtimeconfig.json
+C:\Repositórios\AulasCSharpPOO\bin\Debug\net8.0\AulasCSharpPOO.dll
+C:\Repositórios\AulasCSharpPOO\bin\Debug\net8.0\AulasCSharpPOO.pdb
+C:\Repositórios\AulasCSharpPOO\obj\Debug\net8.0\AulasCSharpPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositórios\AulasCSharpPOO\obj\Debug\net8.0\AulasCSharpPOO.AssemblyInfoInputs.cache
+C:\Repositórios\AulasCSharpPOO\obj\Debug\net8.0\AulasCSharpPOO.AssemblyInfo.cs
+C:\Repositórios\AulasCSharpPOO\obj\Debug\net8.0\AulasCSharpPOO.csproj.CoreCompileInputs.cache
+C:\Repositórios\AulasCSharpPOO\obj\Debug\net8.0\AulasCSharpPOO.dll
+C:\Repositórios\AulasCSharpPOO\obj\Debug\net8.0\refint\AulasCSharpPOO.dll
+C:\Repositórios\AulasCSharpPOO\obj\Debug\net8.0\AulasCSharpPOO.pdb
+C:\Repositórios\AulasCSharpPOO\obj\Debug\net8.0\AulasCSharpPOO.genruntimeconfig.cache
+C:\Repositórios\AulasCSharpPOO\obj\Debug\net8.0\ref\AulasCSharpPOO.dll
